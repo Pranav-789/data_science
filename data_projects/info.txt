@@ -1,0 +1,13 @@
+# To create the environment use command
+#     $ conda create -p venv python=3.12
+#
+# To activate this environment, use
+#
+#     $ conda activate venv   
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+#
+# To install the dependencies use command
+#     $ pip install -r requirements.txt
